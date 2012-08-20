@@ -5,7 +5,7 @@
 
 p {
 	color: #fff;
-	font-family: Roboto;
+	font-family: Roboto, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 22px;
@@ -29,7 +29,7 @@ h1 {
 	color: #fff;
 	-webkit-font-smoothing: antialiased;
 	text-shadow:1px 1px 1px #000;
-	font-family: RobotoThin;
+	font-family: RobotoThin, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 50px;
 	padding: 40px 0 20px 0;
 	margin: 0 auto 0 50px;
